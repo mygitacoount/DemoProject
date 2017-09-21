@@ -24,3 +24,4 @@ C:\Users\1889\Source\Repos\DemoProject\SampleApplication\SampleApplication\bin\S
 C:\Users\1889\Source\Repos\DemoProject\SampleApplication\SampleApplication\bin\System.Web.WebPages.Razor.xml
 C:\Users\1889\Source\Repos\DemoProject\SampleApplication\SampleApplication\obj\Debug\SampleApplication.dll
 C:\Users\1889\Source\Repos\DemoProject\SampleApplication\SampleApplication\obj\Debug\SampleApplication.pdb
+C:\Users\1889\Source\Repos\DemoProject\SampleApplication\SampleApplication\obj\Debug\SampleApplication.csprojResolveAssemblyReference.cache
